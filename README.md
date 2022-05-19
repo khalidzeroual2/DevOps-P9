@@ -1,6 +1,6 @@
 # DevOp Pipelines - Practical Nine
 
-## Continuous Delivery with Github Actions and Azure
+## Continuous  Delivery with Github Actions and Azure
 
 This is the starter repository for practical nine of the module **DevOps Pipelines**. The repository contains the Tic Tac Toe game written in JavaScript project from week Eight.  
 
