@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  DOCKER_IMAGE_NAME: khalidzeroual2-azure-tictactoe1 # Must not exist as a package associated with a different repo!
+  DOCKER_IMAGE_NAME: khalidzeroual2-azure-tictactoe # Must not exist as a package associated with a different repo!
   IMAGE_REGISTRY_URL: docker.pkg.github.com
   AZURE_WEBAPP_NAME: khalideroual2-ttt-app
 
