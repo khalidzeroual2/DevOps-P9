@@ -8,7 +8,7 @@ This is the starter repository for practical nine of the module **DevOps Pipelin
 
 After completing this practical exercise, you will be able to:  
 
-- Deploy to staging and production using Github Actions  
+- Deploy to staging and  production using Github Actions  
 - Define and use labels to trigger deployments
 - Configure and destroy Azure resources
 
